@@ -9,10 +9,3 @@ Since 2022 I started learning how to code with the very basics, HTML & CSS were 
 ## 🛠 Skills
 HTML, CSS, JavaScript, Sass, and learning more...
 
-
-## Social
-
-Find me on Instagram where I share my coding and Migration adventures in this new country for me. 
-
-@luisgcode
-
