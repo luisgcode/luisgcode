@@ -7,5 +7,5 @@ Since 2022 I started learning how to code with the very basics, HTML & CSS were 
 
 
 ## 🛠 Skills
-HTML, CSS, JavaScript, Sass, and learning more...
+HTML, CSS, JavaScript, Sass, Figma, and learning more...
 
