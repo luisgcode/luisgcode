@@ -15,5 +15,5 @@ SAP, Microsoft Office, ERP's, CMS's such as Magento and Prestashop, Slack, Micro
 
 
 ## 🛠 Design Basic Skills
-Figma, and Photoshop, Miro.
+Figma, Photoshop, and Miro.
 
