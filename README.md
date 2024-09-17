@@ -9,11 +9,11 @@ Since 2022 I started learning how to code with the very basics, HTML & CSS were 
 
 
 ## 🛠 Tech Skills
-HTML, CSS, JavaScript, Sass, Tailwind CSS and learning more...
+HTML, CSS, JavaScript, Sass, Tailwind CSS, React, and learning more...
 
 
 ## 🛠 Software Skills
-SAP, Microsoft Office, ERP's, CMS's such as Magento and Prestashop, Slack, Microsoft Teams, and Outlook. 
+SAP, Microsoft Office, ERP's, CMS's such as Magento, Wordpress and Prestashop, Slack, Microsoft Teams, and Outlook. 
 
 
 ## 🛠 Design Basic Skills
