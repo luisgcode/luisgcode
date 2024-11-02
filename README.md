@@ -9,7 +9,7 @@ Since 2022 I started learning how to code with the very basics, HTML & CSS were 
 
 
 ## 🛠 Tech Skills
-HTML, CSS, JavaScript, Sass, Tailwind CSS, React, and learning more...
+HTML, CSS, JavaScript, Sass, Tailwind CSS, React, Android Studio, and learning more...
 
 
 ## 🛠 Software Skills
