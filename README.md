@@ -7,6 +7,13 @@ I'm a web developer based in London, Ontario, Canada, and I am currently studyin
 
 ---
 
+## 🎓 Education  
+- **Fanshawe College**: Web Development and Internet Applications (Jan 2024 – April 2025)  
+  - Dean's Honor Roll: Winter 2024, Summer 2024, Fall 2024 (GPA: 4.075)  
+- **Harvard University**: CS50's Introduction to Programming with Python (2024)
+
+---
+
 ## 🛠 Technical Skills  
 - **Front-End Development**: JavaScript (ES6+), React, HTML5, CSS3, SCSS, Tailwind CSS, Sass.  
 - **Back-End Development**: Python, SQL, Firebase.  
@@ -31,9 +38,4 @@ A centralized platform for guidelines and operational rules, ensuring streamline
 ### Global Technologies  
 Ongoing improvements to an existing website, including code refactoring, content translation, layout redesign, and performance enhancements.  
 
----
 
-## 🎓 Education  
-- **Fanshawe College**: Web Development and Internet Applications (Jan 2024 – April 2025)  
-  - Dean's Honor Roll: Winter 2024, Summer 2024, Fall 2024 (GPA: 4.075)  
-- **Harvard University**: CS50's Introduction to Programming with Python (2024)  
