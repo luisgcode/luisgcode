@@ -11,16 +11,16 @@ Fanshawe College: Web Development and Internet Applications (Jan 2024 – April 
 - Harvard University: CS50's Introduction to Programming with Python (2024)
 
 ## 🛠 Technical Skills 
-Front-End Development: JavaScript (ES6+), React, HTML5, CSS3, SCSS, Tailwind CSS, Sass.
-Back-End Development: Python, SQL, Firebase.
-Web Optimization: Accessibility compliance (WCAG), cross-browser compatibility, responsive design.
-Development Tools: Git, GitHub, Azure, CI/CD pipelines.
-E-Commerce Platforms: Magento, Prestashop, WordPress.
+- Front-End Development: JavaScript (ES6+), React, HTML5, CSS3, SCSS, Tailwind CSS, Sass
+- Back-End Development: Python, SQL, Firebase
+- Web Optimization: Accessibility compliance (WCAG), cross-browser compatibility, responsive design
+- Development Tools: Git, GitHub, Azure, CI/CD pipelines
+- E-Commerce Platforms: Magento, Prestashop, WordPress
 
 ## 🔧 Software & Collaboration Tools 
-Analytics: Power BI, Google Analytics 4, QlikView, Hotjar.
-Design: Figma, Adobe Photoshop.
-Collaboration: Jira, Notion, Microsoft Teams, Slack.
+- Analytics: Power BI, Google Analytics 4, QlikView, Hotjar
+- Design: Figma, Adobe Photoshop
+- Collaboration: Jira, Notion, Microsoft Teams, Slack
 
 ## 💻 Recent Projects 
 
