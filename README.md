@@ -30,8 +30,8 @@ A dynamic, responsive portfolio built with modern web technologies, adhering to 
 
 ### RBC Place London Information Hub
 A centralized platform for guidelines and operational rules, ensuring streamlined coordination for event porters.
-[View Project →](link-to-project) <!-- Add link if public -->
+[View Project →]([link-to-project](https://luisgcode.github.io/rbc-place-london-hub/)) <!-- Add link if public -->
 
 ### Global Technologies
 Ongoing improvements to an existing website, including code refactoring, content translation, layout redesign, and performance enhancements.
-[View Project →](link-to-project) <!-- Add link if public -->
+[View Project →]([link-to-project](https://github.com/luisgcode/GlobalTechWebSite.git)) <!-- Add link if public -->
