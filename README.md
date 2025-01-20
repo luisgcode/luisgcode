@@ -1,4 +1,4 @@
-# Hi, I'm Luis Velasquez 👋 
+# Hi, I'm Luis Guaiquirian 👋 
 
 I'm a web developer based in London, Ontario, Canada, and I am currently studying web development and Internet applications at Fanshawe College. Since 2022, I've been passionate about creating modern, responsive, and accessible web applications, combining technical expertise with a keen eye for user experience. 
 
