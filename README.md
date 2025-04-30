@@ -1,6 +1,6 @@
 # Hi, I'm Luis Guaiquirian 👋 
 
-I'm a web developer based in London, Ontario, Canada, and I am currently studying web development and Internet applications at Fanshawe College. Since 2022, I've been passionate about creating modern, responsive, and accessible web applications, combining technical expertise with a keen eye for user experience. 
+I'm a web developer based in London, Ontario, Canada, and I graduated in 2025 from the Web Development and Internet Applications program at Fanshawe College. Since 2022, I've been passionate about creating modern, responsive, and accessible web applications, combining technical expertise with a keen eye for user experience.
 
 ## 🌐 Portfolio 
 [luisgcode.com](https://luisgcode.com) - Personal website showcasing my latest projects and skills
