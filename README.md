@@ -65,10 +65,6 @@ Successfully delivered 5+ WordPress sites and custom web solutions
 - **Recent**: TheVocalDirection.com - Full WordPress redesign with accessibility focus
 - **Tech**: WordPress, Elementor, Custom CSS, SEO optimization
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=luisgcode&show_icons=true&theme=dark)
-
 ## 🎯 2025 Goals
 
 - [ ] Land my first developer role in Canada
