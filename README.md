@@ -7,6 +7,8 @@ I'm a web developer based in London, Ontario, passionate about building modern w
 ## 🚀 Current Focus
 
 - 🔨 Building a React Native expense tracker app
+- 🔨 Building an Information Hub for a Local Business
+- 🔨 Building websites Freelance 
 - 📚 Learning Node.js & Express for backend development
 - 🤖 Exploring AI integration with Claude Code & MCP
 - 💼 Actively seeking entry-level developer positions
