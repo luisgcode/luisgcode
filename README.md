@@ -1,16 +1,16 @@
 # Hi, I'm Luis Guaiquirian 👋
 
-Recent grad seeking my first IT opportunity in Canada 🇨🇦 | Software Developer expanding to Full-Stack
+Recent grad exploring AI integration while building my Full-Stack skills | Software Developer in London, ON 🇨🇦
 
-I'm a web developer based in London, Ontario, passionate about building modern web applications. Currently expanding from front-end to full-stack development while working on client projects and personal applications.
+I'm a front-end developer transitioning to full-stack, currently working on client projects while learning backend technologies and experimenting with AI integration in web applications.
 
 ## 🚀 Current Focus
 
-- 🔨 Building an Information Hub for Western Fair District (React, Vite, Tailwind, Supabase)
-- 📱 Developing a Cheque Tracker app with OCR technology (React Native, Expo, Node.js)
+- 🔨 Building IntelliBoard AI - Learning document management with AI features (React, Node.js, exploring AI APIs)
+- 📱 Developing ChequeTracker - Mobile app for financial tracking (React Native, Expo, SQLite)
 - 💼 Freelance web development (WordPress, React)
-- 📚 Learning Node.js & Express for backend development
-- 🤖 Exploring AI integration with Claude Code & MCP
+- 📚 Learning backend development with Node.js & Express
+- 🤖 Exploring AI integration through OpenAI and Hugging Face APIs
 - 🎯 Actively seeking entry-level developer positions
 
 ## 🌐 Connect With Me
@@ -29,73 +29,76 @@ I'm a web developer based in London, Ontario, passionate about building modern w
 
 ## 🛠 Tech Stack
 
-### Frontend
+### Core Skills
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### Currently Learning
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) - Building REST APIs
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) - Adding to projects
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) - Database fundamentals
 
-### AI & Automation
-![Claude](https://img.shields.io/badge/-Claude_Code-000000?style=flat-square)
-![Botpress](https://img.shields.io/badge/-Botpress-0084FF?style=flat-square)
+### Exploring
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) - Mobile development
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) - For AI/ML integration
+- **AI Tools**: Learning OpenAI API, exploring Hugging Face
+- **Databases**: Firebase, Supabase, starting with SQLite
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## 💻 Featured Projects
+## 💻 Current Projects
 
-### 🏢 Western Fair Information Hub (In Progress)
-Building a centralized document management system for event services
-- **Tech**: React, Vite, Tailwind CSS, Supabase
-- **Features**: Google Auth, role-based access, document management
-- [View Progress](https://github.com/luisgcode/western-on-board-hub)
+### 🤖 IntelliBoard AI (Learning Project)
+Building a document management system while learning AI integration
+- **Tech**: React, Node.js (learning), TypeScript (adding gradually)
+- **AI Goals**: Implement document Q&A using OpenAI API
+- **Status**: Phase 1 complete (basic CRUD), exploring AI features
+- [View Progress](https://github.com/luisgcode/intelliboard-ai)
 
-### 📱 Cheque Tracker App (In Progress)
-Mobile app that digitizes check management through photo capture
-- **Tech**: React Native, Expo, Node.js, MongoDB
-- **Features**: OCR technology, secure tracking, organized management
-- [View Progress](https://github.com/users/luisgcode/projects/2)
+### 📱 ChequeTracker App (In Development)
+Mobile app for personal finance tracking with photo capture
+- **Tech**: React Native (learning), Expo, SQLite
+- **Current**: Building core features, AI/OCR planned for future
+- **Goal**: Learn mobile development + practical app for daily use
+- [View Progress](https://github.com/luisgcode/cheque-tracker)
 
 ### 🎯 Personal Portfolio V2
 Modern portfolio with AI chatbot integration
 - **Tech**: React, Tailwind CSS, Framer Motion, Botpress AI
-- **Features**: Dark mode, bilingual support (EN/ES), 99% Core Web Vitals
+- **Features**: Dark mode, bilingual support, Core Web Vitals optimized
 - [Live Demo](https://luisgcode.com)
 
-### 💬 Portfolio Chatbot
-AI-powered assistant for portfolio visitors
-- **Tech**: Botpress, Node.js, Custom workflows
-- **Features**: Natural conversation design, smart navigation, integrated with portfolio
-- [Try it](https://luisgcode.com)
-
-### 🎨 Client Work
-Successfully delivered 5+ WordPress sites and custom web solutions
-- **Recent**: TheVocalDirection.com - Full WordPress redesign with WCAG compliance
-- **Tech**: WordPress, Elementor, Custom CSS, SEO optimization
+### 💼 Client Work
+Successfully delivered 5+ WordPress sites
+- **Recent**: TheVocalDirection.com - Full redesign with accessibility
+- **Skills**: WordPress, Custom CSS, SEO, Client communication
 
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=luisgcode&show_icons=true&theme=dark)
 
-## 🎯 2025 Goals
+## 🎯 2025 Learning Goals
 
-- [ ] Land my first developer role in Canada
-- [ ] Complete full-stack portfolio with 3 production apps
+- [ ] Complete Full-Stack curriculum (Node.js, Express, PostgreSQL)
+- [ ] Build and deploy 3 full-stack applications
+- [ ] Integrate AI features using OpenAI/Hugging Face APIs
+- [ ] Learn TypeScript through practical implementation
 - [ ] Contribute to open source projects
-- [ ] Master Express.js and cloud deployment
-- [ ] Build a SaaS application
+- [ ] Land my first developer role in Canada
+
+## 🌱 Learning Journey
+
+Currently following a structured 12-week plan to become a Full-Stack Developer with AI integration skills:
+- **Weeks 1-4**: Backend fundamentals (Node.js, Express, PostgreSQL)
+- **Weeks 5-8**: TypeScript, Testing, Advanced React
+- **Weeks 9-12**: AI integration, deployment, portfolio projects
 
 ## 🌐 Languages
 
@@ -104,7 +107,7 @@ Successfully delivered 5+ WordPress sites and custom web solutions
 
 ## 📫 Let's Connect!
 
-I'm actively looking for junior developer opportunities and always excited to collaborate on interesting projects. Feel free to reach out!
+I'm actively looking for junior developer opportunities where I can grow and contribute. Always excited to learn from experienced developers!
 
 - 📧 Email: luisgcode@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/luisgcode](https://www.linkedin.com/in/luisgcode/)
@@ -112,4 +115,4 @@ I'm actively looking for junior developer opportunities and always excited to co
 - 📱 Instagram: [@luisgcoding](https://www.instagram.com/luisgcoding/)
 
 ---
-⚡ Fun fact: I code 4-5 hours every evening after my day job because I believe in building the future I want to live in!
+⚡ Fun fact: I dedicate 4-5 hours every evening to learning and building projects because I'm passionate about transitioning into tech!
