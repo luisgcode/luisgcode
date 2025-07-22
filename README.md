@@ -7,7 +7,7 @@ I'm a front-end developer transitioning to full-stack, currently working on clie
 ## 🚀 Current Focus
 
 - 🔨 Building IntelliBoard AI - Learning document management with AI features (React, Node.js, exploring AI APIs)
-- 📱 Developing ChequeTracker - Mobile app for financial tracking (React Native, Expo, SQLite)
+- 📱 Developing ChequeTracker - Smart cheque management app with OCR capabilities
 - 💼 Freelance web development (WordPress, React)
 - 📚 Learning backend development with Node.js & Express
 - 🤖 Exploring AI integration through OpenAI and Hugging Face APIs
@@ -63,10 +63,15 @@ Building a document management system while learning AI integration
 - [View Progress](https://github.com/luisgcode/intelliboard-ai)
 
 ### 📱 ChequeTracker App (In Development)
-Mobile app for personal finance tracking with photo capture
-- **Tech**: React Native (learning), Expo, SQLite
-- **Current**: Building core features, AI/OCR planned for future
-- **Goal**: Learn mobile development + practical app for daily use
+Smart mobile app for digitizing and managing paper cheques
+- **Tech Stack**: React Native, Expo Camera, SQLite, React Navigation 6
+- **Features in Development**: 
+  - Camera optimization for cheque photos
+  - Local database with offline-first architecture
+  - Status tracking (pending/cashed/void)
+  - Financial analytics and insights dashboard
+- **Learning Goals**: Mobile development, local storage patterns, image processing
+- **Future Plans**: OCR integration with Hugging Face models for automatic data extraction
 - [View Progress](https://github.com/luisgcode/cheque-tracker)
 
 ### 🎯 Personal Portfolio V2
@@ -95,10 +100,7 @@ Successfully delivered 5+ WordPress sites
 
 ## 🌱 Learning Journey
 
-Currently following a structured 12-week plan to become a Full-Stack Developer with AI integration skills:
-- **Weeks 1-4**: Backend fundamentals (Node.js, Express, PostgreSQL)
-- **Weeks 5-8**: TypeScript, Testing, Advanced React
-- **Weeks 9-12**: AI integration, deployment, portfolio projects
+Currently following a structured plan to become a Full-Stack Developer with AI integration skills.
 
 ## 🌐 Languages
 
@@ -115,4 +117,3 @@ I'm actively looking for junior developer opportunities where I can grow and con
 - 📱 Instagram: [@luisgcoding](https://www.instagram.com/luisgcoding/)
 
 ---
-⚡ Fun fact: I dedicate 4-5 hours every evening to learning and building projects because I'm passionate about transitioning into tech!
