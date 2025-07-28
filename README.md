@@ -29,20 +29,6 @@ I'm focused on delivering responsive, accessible, and SEO-friendly experiences a
 
 ---
 
-## 💻 Highlight Projects
-
-### 📘 [IntelliBoard AI](https://github.com/luisgcode/intelliboard-ai)
-React-based document platform integrating OpenAI for smart Q&A and summaries  
-_🔧 In progress – learning TypeScript and Node.js integration_
-
-### 💰 [ChequeTracker](https://github.com/luisgcode/cheque-tracker)
-Cross-platform React Native app to scan, track and analyze paper cheques  
-_Built with Expo, local SQLite DB, and AI OCR planned with Hugging Face_
-
-### 🌐 [LuisGCode.com](https://luisgcode.com)
-Modern developer portfolio with AI chatbot integration and Core Web Vitals optimization
-
----
 
 ## 🚀 2025 Goals
 
